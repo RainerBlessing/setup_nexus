@@ -2,7 +2,7 @@
   <data>
     <repositories>
       <repo-group-member>
-        <id>ishreleases</id>
+        <id>ishrepo</id>
       </repo-group-member>
       <repo-group-member>
         <id>gradle</id>
